@@ -250,5 +250,4 @@ This process is essential for validating a model's historical performance, testi
 * This article uses code examples from [Darts quickstart](https://unit8co.github.io/darts/quickstart/00-quickstart.html). You can refer to [Darts documentation](https://unit8co.github.io/darts/index.html) for more examples.
 * [Alternative.me Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 * [Bitcoin Halving: How It Works and Why It Matters](https://www.forbes.com/advisor/au/investing/cryptocurrency/bitcoin-halving/), by Matt Whittaker and Patrick McGimpsey in Forbes.com
-#   S t o r e - I t e m - D e m a n d - C r y p t o - P r i c e - P r e d i c t i o n - u s i n g - M u l t i p l e - T i m e - S e r i e s - F o r e c a s t i n g  
- 
+#
