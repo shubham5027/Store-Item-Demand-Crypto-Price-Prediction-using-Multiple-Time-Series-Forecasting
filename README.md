@@ -200,10 +200,6 @@ Use time series forecasting models with covariates ('Days Until Bitcoin Halving'
 
 Our objective is to employ the training series for forecasting cryptocurrency prices within the validation series, assess model accuracy through metrics, and determine the best-performing model for the task at hand.
 
-# Disclaimer
-
-This article is solely intended for educational purposes and does not constitute financial advice. It focuses on the development and evaluation of time series forecasting models with covariates using a simplified real-world example. The results obtained from this model should not be used for automated trading activities.
-
 # What's New in Part 2?
 
 In part two we discuss how to: 
@@ -245,9 +241,3 @@ This process is essential for validating a model's historical performance, testi
 
 ![image](https://github.com/evagian/timeseries-forecasting/assets/5917595/29787c7e-ca05-4b6a-9d18-2b1425261577)
 
-# Sources
-
-* This article uses code examples from [Darts quickstart](https://unit8co.github.io/darts/quickstart/00-quickstart.html). You can refer to [Darts documentation](https://unit8co.github.io/darts/index.html) for more examples.
-* [Alternative.me Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
-* [Bitcoin Halving: How It Works and Why It Matters](https://www.forbes.com/advisor/au/investing/cryptocurrency/bitcoin-halving/), by Matt Whittaker and Patrick McGimpsey in Forbes.com
-#
